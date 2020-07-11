@@ -1,6 +1,9 @@
 FRONT END:
    Front End contains the following pages:
-               1.Homepage
+               
+	       
+	       
+	       1.Homepage
                2.LoginPage
                3.RegisterPage
                4.Addcourses
@@ -8,11 +11,18 @@ FRONT END:
                6.Notifications
                
 BACK END:
-      Backend contains the following service
+     
+     
+     Backend contains the following service
+
+
 1.Login service:
+ 
  Endpointurl:/login
+ 
  MethodType:POST
-          	checkLogin()
+          	
+		checkLogin()
 •	USERNAME
 •	PASSWORD
 

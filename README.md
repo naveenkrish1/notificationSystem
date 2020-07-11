@@ -1,8 +1,5 @@
 FRONT END:
-   Front End contains the following pages:
-               
-	       
-	       
+  Front End contains the following pages:    
 	       1.Homepage
                2.LoginPage
                3.RegisterPage
